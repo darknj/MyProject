@@ -30,3 +30,5 @@ Route::get('check-connect',function(){
 
 
 Route::get('check-model','ProfileController@getIndex');
+
+Route::controller('admin/index','Admins\DashboardController');
