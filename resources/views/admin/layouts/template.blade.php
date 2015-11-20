@@ -22,7 +22,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="index.html">SB Admin v2.0 Modify By Saimok</a>
+                    <a class="navbar-brand" href="index.html">SB Admin v2.0 Modify By Sompong</a>
                 </div>
                 <!-- /.navbar-header -->
                 @include('admin.layouts.inc-header')
